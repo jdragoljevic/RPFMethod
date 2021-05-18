@@ -41,13 +41,13 @@ To get data about repeats from the IBMDB2 database please use script: RPF_get_da
 To load data used in the research please use script: RPF_load_data.r as well as data files attached:
 | file name | description |
 --- | --- 
-| [RData_mitoh_3seq] () | test data for 3 mitochondrial DNA sequence: V00662.1 - Human, D38113.1 - Chimpanzee and AJ001588.1 - Rabbit, dn repeat type |
-| [RData_mitoh_dn] () | test data for complete mitochondrial DNA sequences from 45 different mammalian species with dn repeat type |
-| [RData_mitoh_dc] () | test data for complete mitochondrial DNA sequences from 45 different mammalian species with dc repeat type |
-| [RData_mitoh_in] () | test data for complete mitochondrial DNA sequences from 45 different mammalian species with in repeat type |
-| [RData_mitoh_ic] () | test data for complete mitochondrial DNA sequences from 45 different mammalian species with ic repeat type |
-| [RData_viruses_dn] () | test data for 383 RNA viruses dn repeat type |
-| [RData_viruses_dc] () | test data for 383 RNA viruses dc repeat type |
+| [RData_mitoh_3seq] (https://github.com/sequencesimilarity/RPFMethod/blob/main/datasets/RData_mitoh_3seq) | test data for 3 mitochondrial DNA sequence: V00662.1 - Human, D38113.1 - Chimpanzee and AJ001588.1 - Rabbit, dn repeat type |
+| [RData_mitoh_dn] (https://github.com/sequencesimilarity/RPFMethod/blob/main/datasets/RData_mitoh_dn) | test data for complete mitochondrial DNA sequences from 45 different mammalian species with dn repeat type |
+| [RData_mitoh_dc] (https://github.com/sequencesimilarity/RPFMethod/blob/main/datasets/RData_mitoh_dc) | test data for complete mitochondrial DNA sequences from 45 different mammalian species with dc repeat type |
+| [RData_mitoh_in] (https://github.com/sequencesimilarity/RPFMethod/blob/main/datasets/RData_mitoh_in) | test data for complete mitochondrial DNA sequences from 45 different mammalian species with in repeat type |
+| [RData_mitoh_ic] (https://github.com/sequencesimilarity/RPFMethod/blob/main/datasets/RData_mitoh_ic) | test data for complete mitochondrial DNA sequences from 45 different mammalian species with ic repeat type |
+| [RData_viruses_dn] (https://github.com/sequencesimilarity/RPFMethod/blob/main/datasets/RData_viruses_dn) | test data for 383 RNA viruses dn repeat type |
+| [RData_viruses_dc] (https://github.com/sequencesimilarity/RPFMethod/blob/main/datasets/RData_viruses_dc) | test data for 383 RNA viruses dc repeat type |
 
 ### calculating local based frequency entropy, sequence similarity calculation, clustering as well as validation
 please use script: RPF_similarity.r
