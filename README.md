@@ -48,6 +48,18 @@ To load data used in the research please use script: RPF_load_data.r as well as 
 | [RData_mitoh_ic](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_mitoh_ic) | test data for complete mitochondrial DNA sequences from 45 different mammalian species with ic repeat type |
 | [RData_viruses_dn](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_viruses_dn) | test data for 383 RNA viruses dn repeat type |
 | [RData_viruses_dc](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_viruses_dc) | test data for 383 RNA viruses dc repeat type |
+| [RRData_xylanase_in](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_xylanase_in) | test data for 20 protein sequences |
+| [RData_xylanase_dn](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_xylanase_dn) | test data for 20 protein sequences |
+| [RData_transfferin_in](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_transfferin_in) | test data for 24 protein sequences |
+| [RData_transfferin_dn](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_transfferin_dn) | test data for 24 protein sequences |
+| [RData_spike_coronavirus_in](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_spike_coronavirus_in) | test data for 50 protein sequences |
+| [RData_spike_coronavirus_dn](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_spike_coronavirus_dn) | test data for 50 protein sequences |
+| [RData_ND6_in](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_ND6_in) | test data for 8 protein sequences |
+| [RData_ND6_dn](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_ND6_dn) | test data for 8 protein sequences |
+| [RData_ND5_in](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_ND5_in) | test data for 9 protein sequences |
+| [RData_ND5_dn](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_ND5_dn) | test data for 9 protein sequences |
+| [RData_betaglobin_in](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_betaglobin_in) | test data for 50 protein sequences |
+| [RData_betaglobin_dn](https://github.com/jdragoljevic/RPFMethod/blob/main/datasets/RData_betaglobin_dn) | test data for 50 protein sequences |
 
 ### calculating local based frequency entropy, sequence similarity calculation, clustering as well as validation
 please use script: RPF_similarity.r
