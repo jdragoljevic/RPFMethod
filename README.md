@@ -58,12 +58,12 @@ R environment
 
 ## Cite
 
-Under review.
+DOI: 10.2174/1574893616999210805165628
 
 ## License
 
 R-P/F method, it's implementation programs and data attached should be used only for purely academic purposes and commercial use is strictly prohibited.
-Work should be cited.
+Work should be cited (DOI: 10.2174/1574893616999210805165628).
 Please contact [Jasmina Jovanovic](mailto:jasmina.dragoljevic@gmail.com) for any commercial license.
 
 
